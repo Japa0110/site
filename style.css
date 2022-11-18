@@ -1,0 +1,19 @@
+body {
+    background: #CCCCCC
+}
+
+strong {
+    color:red
+}
+
+h3 {
+    strong
+}
+
+.itens {
+    font-style: italic
+}
+
+p {
+    text-aling: center
+}
